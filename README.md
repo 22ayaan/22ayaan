@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22ayaan&label=Profile%20views&color=0e75b6&style=flat" alt="22ayaan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=22ayaan" alt="22ayaan" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/ayaanrushil" target="blank"><img src="https://img.shields.io/twitter/follow/ayaanrushil?logo=twitter&style=for-the-badge" alt="ayaanrushil" /></a> </p>
 
 - 🔭 I’m currently working on **a SwiftUI Cryptocurrency dashboard**

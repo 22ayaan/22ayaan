@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **a SwiftUI Cryptocurrency dashboard**
 
-- 🌱 I’m currently learning **Electron, Next.js, SwiftUI**
+- 🌱 I’m currently learning **React Native, Next.js, SwiftUI**
 
-- 👯 I’m looking to collaborate on **projects using the Electron framework or MERN/PERN stack**
+- 👯 I’m looking to collaborate on **projects using React Native or MERN/PERN stack**
 
 - 💬 Ask me about **react, node or anything about javascript**
 

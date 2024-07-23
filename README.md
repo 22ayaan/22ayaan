@@ -9,19 +9,19 @@
 
 - 👉 Check out my [portfolio](ayaansiddiqui.vercel.app)
 
-- 🔭 I’m currently working on **a SwiftUI Cryptocurrency dashboard**
+- 🔭 I’m currently working on ***a SwiftUI Cryptocurrency dashboard***
 
-- 🌱 I’m currently learning **React Native, Next.js, SwiftUI**
+- 🌱 I’m currently learning ***React Native, Next.js, SwiftUI***
 
-- 👯 I’m looking to collaborate on **projects using React Native or MERN/PERN stack**
+- 👯 I’m looking to collaborate on ***projects using React Native or MERN/PERN stack***
 
-- 💬 Ask me about **react, node or anything about javascript**
+- 💬 Ask me about ***react, node or anything about javascript***
 
-- 📫 Reach out to me: **rushilayaan@gmail.com**
+- 📫 Reach out to me: ***rushilayaan@gmail.com***
 
-- 📄 Know about my experiences: [https://github.com/22ayaan/MyResume/blob/main/README.md](https://github.com/22ayaan/MyResume/blob/main/README.md)
+- 📄 Know about my experiences: [Resume](https://github.com/22ayaan/MyResume/blob/main/README.md)
 
-- ⚡ Fun fact: **I touch grass (definitely not a lie)**
+- ⚡ Fun fact: ***I touch grass (definitely not a lie)***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

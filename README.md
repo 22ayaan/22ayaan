@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ayaanrushil" target="blank"><img src="https://img.shields.io/twitter/follow/ayaanrushil?logo=twitter&style=for-the-badge" alt="ayaanrushil" /></a> </p>
 
+- 👉 Check out my [portfolio](ayaansiddiqui.vercel.app)
+
 - 🔭 I’m currently working on **a SwiftUI Cryptocurrency dashboard**
 
 - 🌱 I’m currently learning **React Native, Next.js, SwiftUI**
@@ -15,11 +17,11 @@
 
 - 💬 Ask me about **react, node or anything about javascript**
 
-- 📫 How to reach me **rushilayaan@gmail.com**
+- 📫 Reach out to me: **rushilayaan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/22ayaan/MyResume/blob/main/README.md](https://github.com/22ayaan/MyResume/blob/main/README.md)
+- 📄 Know about my experiences: [https://github.com/22ayaan/MyResume/blob/main/README.md](https://github.com/22ayaan/MyResume/blob/main/README.md)
 
-- ⚡ Fun fact **I touch grass (definitely not a lie)**
+- ⚡ Fun fact: **I touch grass (definitely not a lie)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
